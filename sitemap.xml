@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/entity-and-relation-extraction-in-text-streams/</loc>
+    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/neural-poem-generation/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/learning-epidemiological-models/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/marra-2018-unsupervised/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-zugarini/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giuseppe-marra/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marco-maggini/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stefano-melacci/</loc>
+    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zugarini-2018-combining/</loc>
+    <lastmod>2020-09-20T21:24:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jeremy-morvan/</loc>
+    <lastmod>2020-09-20T21:24:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stefan-knerr-and-marco-gori/</loc>
+    <lastmod>2020-09-20T21:24:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/achille-globo/</loc>
+    <lastmod>2020-09-20T20:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antonio-trevisi/</loc>
+    <lastmod>2020-09-20T20:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/information-extraction/</loc>
+    <lastmod>2020-09-20T20:29:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/knowledge-base-construction/</loc>
+    <lastmod>2020-09-20T20:29:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/language-modeling/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/language-modeling/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/maggini-2019-learning/</loc>
+    <lastmod>2020-09-20T20:29:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leonardo-rigutini/</loc>
+    <lastmod>2020-09-20T20:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/natural-language-generation/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/globo-2019-neural/</loc>
+    <lastmod>2020-09-20T20:29:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zugarini-2019-neural/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/online-learning/</loc>
+    <lastmod>2020-09-20T20:29:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poem-generation/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/poem-generation/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/syllable-based-language-models/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/others/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/spiga-2018-new/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alberto-rossi/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-bernini/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-zatkova/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/barbara-marzocchi/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/giulia-bernardini/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lia-millucci/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/monica-bianchini/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ottavia-spiga/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vittoria-cicaloni/</loc>
+    <lastmod>2020-09-20T20:29:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alessandro-rossi/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dario-zanca/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/francesco-giannini/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/giannini-2017-neural/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vincenzo-laveglia/</loc>
+    <lastmod>2020-09-20T20:29:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andrea-zugarini/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 22:23:16 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Entity and Relation Extraction in Text Streams</title>
+      <link>/project/entity-and-relation-extraction-in-text-streams/</link>
+      <pubDate>Mon, 21 Sep 2020 22:23:16 +0200</pubDate>
+      <guid>/project/entity-and-relation-extraction-in-text-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Poem Generation</title>
+      <link>/project/neural-poem-generation/</link>
+      <pubDate>Mon, 21 Sep 2020 22:22:18 +0200</pubDate>
+      <guid>/project/neural-poem-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Epidemiological Models</title>
+      <link>/project/learning-epidemiological-models/</link>
+      <pubDate>Mon, 21 Sep 2020 22:21:25 +0200</pubDate>
+      <guid>/project/learning-epidemiological-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

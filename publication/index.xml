@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 21:27:41 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>An Unsupervised Character-Aware Neural Approach to Word and Context Representation Learning</title>
+      <link>/publication/marra-2018-unsupervised/</link>
+      <pubDate>Sun, 20 Sep 2020 21:27:41 +0200</pubDate>
+      <guid>/publication/marra-2018-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining deep learning and symbolic processing for extracting knowledge from raw text</title>
+      <link>/publication/zugarini-2018-combining/</link>
+      <pubDate>Sun, 20 Sep 2020 21:24:17 +0200</pubDate>
+      <guid>/publication/zugarini-2018-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning in Text Streams: Discovery and Disambiguation of Entity and Relation Instances</title>
+      <link>/publication/maggini-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/maggini-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Paraphrasing by Automatically Crawled and Aligned Sentence Pairs</title>
+      <link>/publication/globo-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/globo-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Poetry: Learning to Generate Poems Using Syllables</title>
+      <link>/publication/zugarini-2019-neural/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zugarini-2019-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new integrated and interactive tool applicable to inborn errors of metabolism: Application to alkaptonuria</title>
+      <link>/publication/spiga-2018-new/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/spiga-2018-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural networks for beginners. A fast implementation in matlab, torch, tensorflow</title>
+      <link>/publication/giannini-2017-neural/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/giannini-2017-neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
