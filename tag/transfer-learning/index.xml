@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transfer learning | Andrea Zugarini</title>
+    <link>/tag/transfer-learning/</link>
+      <atom:link href="/tag/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>transfer learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 22:22:18 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>transfer learning</title>
+      <link>/tag/transfer-learning/</link>
+    </image>
+    
+    <item>
+      <title>Neural Poetry</title>
+      <link>/project/neural-poem-generation/</link>
+      <pubDate>Mon, 21 Sep 2020 22:22:18 +0200</pubDate>
+      <guid>/project/neural-poem-generation/</guid>
+      <description>&lt;p&gt;We study the problem of neural poem generation, focussing on Dante Alighieri, widely known for his Divine Comedy. This challenging task, where the machine has to capture the linguistic features that characterize the poet from the few available author&amp;rsquo;s works, it is addressed by using a syllable-based neural language model trained with a multi-stage procedure that exploits non-poetic works of the same author and also other publicly available huge modern Italian corpora.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

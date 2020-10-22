@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>covid-19 | Andrea Zugarini</title>
+    <link>/tag/covid-19/</link>
+      <atom:link href="/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>covid-19</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 22:21:25 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>covid-19</title>
+      <link>/tag/covid-19/</link>
+    </image>
+    
+    <item>
+      <title>Learning Epidemiological Models</title>
+      <link>/project/learning-epidemiological-models/</link>
+      <pubDate>Mon, 21 Sep 2020 22:21:25 +0200</pubDate>
+      <guid>/project/learning-epidemiological-models/</guid>
+      <description>&lt;p&gt;The COVID-19 outbreak has stimulated the interest in the proposal of novel epidemiological models to predict the course of the epidemic so as to help planning effective control strategies. In particular, in order to properly interpret the available data, it has become clear that one must go beyond most classic epidemiological models and consider models that, like the recently proposed SIDARTHE, offer a richer description of the stages of infection. The problem of learning the parameters of these models is of crucial importance especially when assuming that they are time-variant, which further enriches their effectiveness. This project focuses on developing a general approach for learning time-variant parameters of dynamic compartmental models from epidemic data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

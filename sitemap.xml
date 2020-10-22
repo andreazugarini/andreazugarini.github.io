@@ -4,17 +4,62 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/entity-and-relation-extraction-in-text-streams/</loc>
-    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+    <loc>/tag/corpus/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/language-modeling/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/language-varieties/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/perplexity-based-methods/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-09-21T22:23:16+02:00</lastmod>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/vardial2020/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/vulgaris/</loc>
+    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/natural-language-generation/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/natural-language-generation/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +68,52 @@
   </url>
   
   <url>
+    <loc>/category/poem-generation/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poem-generation/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/syllable-representations/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/transfer-learning/</loc>
+    <lastmod>2020-09-21T22:22:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/compartmental-models/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/covid-19/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/epidemiological-models/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/learning-epidemiological-models/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pytorch/</loc>
+    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sidarthe/</loc>
     <lastmod>2020-09-21T22:21:25+02:00</lastmod>
   </url>
   
@@ -103,11 +193,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/information-extraction/</loc>
     <lastmod>2020-09-20T20:29:13+02:00</lastmod>
   </url>
@@ -115,11 +200,6 @@
   <url>
     <loc>/tag/knowledge-base-construction/</loc>
     <lastmod>2020-09-20T20:29:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/language-modeling/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +218,6 @@
   </url>
   
   <url>
-    <loc>/tag/natural-language-generation/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/globo-2019-neural/</loc>
     <lastmod>2020-09-20T20:29:14+02:00</lastmod>
   </url>
@@ -158,22 +233,7 @@
   </url>
   
   <url>
-    <loc>/tag/poem-generation/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/poem-generation/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/syllable-based-language-models/</loc>
-    <lastmod>2020-09-20T20:29:15+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-09-20T20:29:15+02:00</lastmod>
   </url>
   

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>language varieties | Andrea Zugarini</title>
+    <link>/tag/language-varieties/</link>
+      <atom:link href="/tag/language-varieties/index.xml" rel="self" type="application/rss+xml" />
+    <description>language varieties</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2020 15:12:09 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>language varieties</title>
+      <link>/tag/language-varieties/</link>
+    </image>
+    
+    <item>
+      <title>Vulgaris</title>
+      <link>/project/vulgaris/</link>
+      <pubDate>Sun, 11 Oct 2020 15:12:09 +0200</pubDate>
+      <guid>/project/vulgaris/</guid>
+      <description>&lt;p&gt;The main goal of the project is the analysis of the diachronic evolution and variance of the vulgar Italian language.
+In order to do so, we retrieved an heterogeneous literary text corpus from Biblioteca Italiana, a digital library project collecting the most significant texts of the Italian literature, ranging from the Middle Age to the 20th century.
+The analyzed corpus contains poetry, prose, epistles and correspondence by the most important Italian authors ranging from the dawn of the vulgar language to the Reinassance Age.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
