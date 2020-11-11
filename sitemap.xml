@@ -3,22 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/corpus/</loc>
-    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+    <loc>/publication/zugarini2020optimal/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/compartmental-models/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/covid-19/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/forecast/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sidarthe/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-11T10:16:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dialects/</loc>
+    <lastmod>2020-11-11T10:16:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/language-modeling/</loc>
-    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
+    <lastmod>2020-11-11T10:16:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/language-varieties/</loc>
+    <lastmod>2020-11-11T10:16:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/perplexity-based-measures/</loc>
+    <lastmod>2020-11-11T10:16:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zugarini2020vulgaris/</loc>
+    <lastmod>2020-11-11T10:16:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/corpus/</loc>
     <lastmod>2020-10-11T15:12:09+02:00</lastmod>
   </url>
   
@@ -29,11 +94,6 @@
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-10-11T15:12:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-10-11T15:12:09+02:00</lastmod>
   </url>
   
@@ -88,16 +148,6 @@
   </url>
   
   <url>
-    <loc>/tag/compartmental-models/</loc>
-    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/covid-19/</loc>
-    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/epidemiological-models/</loc>
     <lastmod>2020-09-21T22:21:25+02:00</lastmod>
   </url>
@@ -109,11 +159,6 @@
   
   <url>
     <loc>/tag/pytorch/</loc>
-    <lastmod>2020-09-21T22:21:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sidarthe/</loc>
     <lastmod>2020-09-21T22:21:25+02:00</lastmod>
   </url>
   
@@ -144,16 +189,6 @@
   
   <url>
     <loc>/author/marco-maggini/</loc>
-    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-20T21:27:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-09-20T21:27:41+02:00</lastmod>
   </url>
   

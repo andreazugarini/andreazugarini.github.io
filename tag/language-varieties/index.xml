@@ -5,12 +5,20 @@
     <link>/tag/language-varieties/</link>
       <atom:link href="/tag/language-varieties/index.xml" rel="self" type="application/rss+xml" />
     <description>language varieties</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2020 15:12:09 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 10:16:47 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>language varieties</title>
       <link>/tag/language-varieties/</link>
     </image>
+    
+    <item>
+      <title>Vulgaris: Analysis of a Corpus for Middle-Age Varieties of Italian Language</title>
+      <link>/publication/zugarini2020vulgaris/</link>
+      <pubDate>Wed, 11 Nov 2020 10:16:47 +0100</pubDate>
+      <guid>/publication/zugarini2020vulgaris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vulgaris</title>

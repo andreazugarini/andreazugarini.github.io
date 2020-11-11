@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 21:27:41 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 10:16:59 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>An Optimal Control Approach to Learning in SIDARTHE Epidemic model</title>
+      <link>/publication/zugarini2020optimal/</link>
+      <pubDate>Wed, 11 Nov 2020 10:16:59 +0100</pubDate>
+      <guid>/publication/zugarini2020optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vulgaris: Analysis of a Corpus for Middle-Age Varieties of Italian Language</title>
+      <link>/publication/zugarini2020vulgaris/</link>
+      <pubDate>Wed, 11 Nov 2020 10:16:47 +0100</pubDate>
+      <guid>/publication/zugarini2020vulgaris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Unsupervised Character-Aware Neural Approach to Word and Context Representation Learning</title>

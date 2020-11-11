@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dialects | Andrea Zugarini</title>
+    <link>/tag/dialects/</link>
+      <atom:link href="/tag/dialects/index.xml" rel="self" type="application/rss+xml" />
+    <description>dialects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 10:16:47 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>dialects</title>
+      <link>/tag/dialects/</link>
+    </image>
+    
+    <item>
+      <title>Vulgaris: Analysis of a Corpus for Middle-Age Varieties of Italian Language</title>
+      <link>/publication/zugarini2020vulgaris/</link>
+      <pubDate>Wed, 11 Nov 2020 10:16:47 +0100</pubDate>
+      <guid>/publication/zugarini2020vulgaris/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
